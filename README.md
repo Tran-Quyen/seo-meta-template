@@ -13,7 +13,6 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
 
 </p>
 </details>
----
 
 ---
 <details><summary><b>SEO Offpage</b></summary>
@@ -24,7 +23,6 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
  SEO Offpage là việc xây dựng những liên kết ngoài trỏ về website. Mục đích để tăng hệ thống liên kết có chất lượng trỏ về trang đích từ những website khác để đẩy mạnh từ khóa của mình lên.
 </p>
 </details>
----
 
 ---
 <details><summary><b>SEO Onpage</b></summary>
@@ -35,7 +33,6 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
      SEO Onpage chính là việc tối ưu bên trong website, trên từng trang con, được lặp đi nhiều lần mỗi khi đăng một bài viết mới. Việc này nhằm mục đích chính là để đưa website này đứng ở vị trí đầu tiên trên trang kết quả tìm kiếm của Google.
 </p>
 </details>
----
 
 ---
 <details><summary><b>EO như thế nào?</b></summary>
@@ -50,7 +47,7 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
       - Nội dung: có ích cho người đọc, k0 được trùng lặp, dễ đọc, dễ hiểu => Nhiều người đọc => SEO top càng cao
 </p>
 </details>
----
+
 
       
 
