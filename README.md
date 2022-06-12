@@ -27,7 +27,7 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
 </details>
 
 ---
-<details><summary><b>EO như thế nào?</b></summary>
+<details><summary><b>SEO như thế nào?</b></summary>
 <ul>
  <li>Phải có thẻ meta title, description</li>
  <li>Heading: h1->h6 dùng phải phù hợp (tránh sử dụng lung tung)</li>
