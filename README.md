@@ -1,5 +1,5 @@
 # HOW TO SEO WEBSITE
-## Repo [SEO](https://github.com/Tran-Quyen/seo-meta-template/)
+## Repo: [SEO](https://github.com/Tran-Quyen/seo-meta-template/)
 ### Author: Quyen Dang
 ### Facebook: https://www.facebook.com/QuyenGiaSuJS
 ### Phone: 0337846412
