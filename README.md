@@ -1,9 +1,9 @@
 # HOW TO SEO WEBSITE
-## Repo: [SEO TEMPLATE](https://github.com/Tran-Quyen/seo-meta-template/)
-### Author: Quyen Dang
-### Facebook: https://www.facebook.com/QuyenGiaSuJS
-### Phone: 0337846412
-### Khái niệm cần nắm được:
+### Repo: [SEO TEMPLATE](https://github.com/Tran-Quyen/seo-meta-template/)
+#### Author: Quyen Dang
+#### Facebook: https://www.facebook.com/QuyenGiaSuJS
+#### Phone: 0337846412
+#### Khái niệm cần nắm được:
 ---
 <details><summary><b>Search Engine Optimization (SEO)</b></summary>
 <p>
