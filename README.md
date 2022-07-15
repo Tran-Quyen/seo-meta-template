@@ -39,6 +39,8 @@ SEO là từ viết tắt của Search Engine Optimization (tối ưu hóa công
 </ul>
 </details>
 
+---
+[Reference](https://carly.com.vn/blog/the-meta-open-graph/#og-image)
 
       
 
